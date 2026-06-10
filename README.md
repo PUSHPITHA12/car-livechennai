@@ -41,7 +41,7 @@ To provide a user-friendly platform for exploring and comparing used cars availa
 
 ## 👨‍💻 Developer
 
-**Pushpitha P**
+**Pushpitha V**
 
 ## 📧 Contact
 
