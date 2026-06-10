@@ -45,7 +45,7 @@ To provide a user-friendly platform for exploring and comparing used cars availa
 
 ## 📧 Contact
 
-[pushpitha12@gmail.com](mailto:pushpitha12@gmail.com)
+[pushpithav12@gmail.com](mailto:pushpithav12@gmail.com)
 
 ## 🚀 Deployment
 
@@ -53,4 +53,4 @@ Hosted using GitHub Pages.
 
 ## 📜 License
 
-This project is created for educational and portfolio purposes.
+This project is created for educational,internship in jb soft system and portfolio purposes.
