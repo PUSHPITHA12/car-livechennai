@@ -53,4 +53,4 @@ Hosted using GitHub Pages.
 
 ## 📜 License
 
-This project is created for educational,internship in jb soft system and portfolio purposes.
+This project is created for educational,internship and portfolio purposes.
