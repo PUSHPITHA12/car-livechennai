@@ -4,7 +4,7 @@ A modern used car marketplace website focused on Chennai. Users can browse cars,
 
 ## 🌐 Live Demo
 
-https://pushpithav12.github.io/car-livechennai/
+https://pushpitha12.github.io/car-livechennai/
 
 ## ✨ Features
 
